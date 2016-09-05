@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ThreadedDownloadApplication</string>
+    <string name="title_activity_download">Download</string>
+    <string name="download">Download Image</string>
+    <string name="resetImage">Reset Image</string>
+    <string name="defaultURL"></string>
+    <string name="location">Enter URL:</string>
+    <string name="runRunnable">Run\nRunnable</string>
+    <string name="runMessages">Run\nMessages</string>
+    <string name="runAsyncTask">Run\nAsync</string>
+</resources>
