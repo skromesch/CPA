@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">RxJavaDownload</string>
+    <string name="title_activity_threadeddownloads">RxJava Download</string>
+    <string name="runDownload">Run\nRxJava</string>
+    <string name="resetImage">Reset\nImage</string>
+    <string name="defaultURL"></string>
+    <string name="location">Enter URL:</string>
+</resources>
