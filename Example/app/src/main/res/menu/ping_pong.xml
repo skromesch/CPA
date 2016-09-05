@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_pp_wrong"
+        android:title="@string/pig_pong_wrong"
+        android:showAsAction="never" 
+        />
+    <item android:id="@+id/menu_pp_semaphore"
+          android:title="@string/ping_pong_semaphore"
+          android:showAsAction="never"></item>
+    <item android:id="@+id/menu_pp_monitorobject"
+        android:title="@string/ping_pong_monitorobject"
+        android:showAsAction="never"></item>
+    <item android:id="@+id/menu_pp_conditionobject"
+        android:title="@string/ping_pong_conditionobject"
+        android:showAsAction="never"></item>
+</menu>

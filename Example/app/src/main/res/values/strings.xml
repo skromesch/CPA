@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Example Downloads</string>
+    <string name="menu_ping_pong">Ping Pong</string>
+    <string name="menu_download_runnable">Run Runnable</string>
+    <string name="menu_download_messages">Run Messages</string>
+    <string name="menu_download_asynctask">Run AsyncTask</string>
+    <string name="menu_download_service">Run Service</string>
+    <string name="menu_download_rxjava">Run RxJava</string>
+    <string name="title_activity_pingpong">Ping Pong</string>
+    <string name="title_activity_rxjava">Rx Java Download</string>
+    <string name="title_activity_servicedownload">Service Download</string>
+    <string name="title_activity_asynctaskdownload">AsyncTask Download</string>
+    <string name="title_activity_messagesdownload">Messages Download</string>
+    <string name="title_activity_runnabledownload">Runnable Download</string>
+    <string name="download">Download Image</string>
+    <string name="resetImage">Reset Image</string>
+    <string name="defaultURL"></string>
+    <string name="location">Enter URL:</string>
+    <string name="resetOutput">Reset</string>
+    <string name="pig_pong_wrong">Pin Pong Wrong</string>
+    <string name="ping_pong_semaphore">Ping Pong Semaphore</string>
+    <string name="ping_pong_monitorobject">Ping Pong Monitor Object</string>
+    <string name="ping_pong_conditionobject">Ping Pong Condition Object</string>
+
+</resources>
