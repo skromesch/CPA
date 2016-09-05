@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ServiceDownloadApplication</string>
+    <string name="title_activity_download">Download</string>
+    <string name="download">Download Image</string>
+    <string name="resetImage">Reset Image</string>
+    <string name="defaultURL"></string>
+    <string name="location">Enter URL:</string>
+</resources>
