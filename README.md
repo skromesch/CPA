@@ -14,18 +14,18 @@ Two java thread synchronisation examples.
 
 ### Threaded Download
 
-Android image downloader app using Handler and AsyncTask.
+An Android image downloader app is using Handler and AsyncTask classes.
 
 ### Service Download
 
-Android image downloader app using Android Service.
+An Android image downloader app that is implemented with Android Service.
 
 ### RxJava Downlaod
 
-Android image downloader app using RxJava library.
+An Android image downloader app based on RxJava library.
 
 ### Example
 
-Android app include all examples.
+Android app includes all examples.
 
 _The examples were made by Android Studio 2.1.3 and tested on Android 6.0_
